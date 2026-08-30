@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://businessboosterlk.github.io/maruichi-auto/sitemap.xml
